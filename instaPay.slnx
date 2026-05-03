@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="instaPay/instaPay.vcxproj" Id="9d9f2566-e963-4f01-898e-becfb70fe578" />
+</Solution>

@@ -1,0 +1,6 @@
+TahrirStreet/#/Cairo/#/12
+NasrRoad/#/Giza/#/45
+ElHaramStreet/#/Giza/#/102
+AlexCorniche/#/Alexandria/#/7
+FaisalStreet/#/Giza/#/88
+Ma3rfsh/#/Shubra El Khema/#/25
